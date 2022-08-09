@@ -1,0 +1,107 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "Air Adjust Force",
+            "price": 180,
+            "image": "./imgZ/adjust.jpg",
+            "category": "Air Force",
+            "description": "Air Adjust Force (Air Force)",
+            "descriptionDos": "Las Air Adjust Force cuentan con su exquisita piel flor y detalles de colaboración con la marca que añaden sofisticación a cada paso. Además, estas zapatillas te permiten llevar un look fuera de la cancha con el estilo de las pasarelas."
+        },
+        {
+            "id": 2,
+            "title": "Air Jordan 5 PSG",
+            "price": 200,
+            "image": "./imgZ/psg.jpg",
+            "category": "Air Jordan",
+            "description": "Air Jordan 5 PSG (Air Jordan)",
+            "descriptionDos": "Las Air Jordan 5 del PSG representan un nuevo capítulo en la relación que une al equipo parisino y a la marca que Nike creó en 1985 para cortejar a Michael Jordan."
+        },
+        {
+            "id": 3,
+            "title": "Air Jordan Legacy 321 ",
+            "price": 210,
+            "image": "./imgZ/legacy.jpg",
+            "category": "Air Jordan",
+            "description": "Air Jordan Legacy 321 (Air Jordan)",
+            "descriptionDos": "Este calzado en colores de los Toros de Chicago, hechos por JORDAN, tienen una construcción de cuero, que les brinda una mayor durabilidad y resistencia. Tiene, por enfrente, orificios que te brindan una mayor ventilación, frescura y comodidad."
+        },
+        {
+            "id": 4,
+            "title": "Air Jordan 5 Retro",
+            "price": 125,
+            "image": "./imgZ/AirJordan5Retro.jpg",
+            "category": "Air Jordan",
+            "description": "Air Jordan 5 Retro (Air Jordan)",
+            "descriptionDos": "Las Nike Air Jordan 5 fueron diseñadas por Tinker Hatfield, el prestigioso diseñador de la firma americana por aquel entonces, y que ya había estado presente en anteriores diseños. En esta ocasión para dar lugar a esta silueta se inspiró en los aviones de la segunda guerra mundial, exactamente en el modelo norte americano Mustang P-51. Fue principalmente en la parte de la mediasuela donde realizó cambios para este modelo, fueron bastantes exitosos por el nuevo toque estético que estos ofrecían a las zapatillas en los que destacaban los colores y el efecto translúcido."
+        },
+        {
+            "id": 5,
+            "title": "Nike Air Force 1 Lv8",
+            "price": 130,
+            "image": "./imgZ/lv8.jpg",
+            "category": "Air Force",
+            "description":"Nike Air Force 1 Lv8",
+            "descriptionDos":"Con un estilo de herencia, las Zapatillas Nike Air Force 1 Lv8 mueven multitudes. Los más jóvenes de la familia van a disfrutar de la comodidad que ofrece su sistema de amortiguación Air-Sole y el diseño urbano inspirado en el básquet."
+         
+        },
+        {
+            "id": 6,
+            "title": "Air Jordan 12 Retro",
+            "price": 200,
+            "image": "./imgZ/AirJordan12Retro.jpg",
+            "category": "Air Jordan",
+            "description": "Air Jordan 12 Retro",
+            "descriptionDos": "Air Jordan 12 Retro es el regreso del famoso diseño 1996 de Tinker Hatfield, el primero en llevar la amortiguación Zoom Air a la línea emblemática. Materiales premium en la parte superior para una actualización estacional. La parte superior con materiales de cuero auténtico y tela brinda durabilidad."
+        },
+        {
+            "id": 7,
+            "title": "Jumpman Two Trey",
+            "price": 150,
+            "image": "/imgz/jumpman.jpg",
+            "category": "",
+            "description": "Jumpman Two Trey",
+            "descriptionDos": "Las Jumpman Two Trey cuentan con la tecnología Air, que contiene una cámara duradera y flexible llena de aire que se sitúa en la entresuela de la zapatilla. Con esta tecnología, la deportiva protege tus tobillos y rodillas, amortiguando el impacto de cada pisada."
+        },
+        {
+            "id": 8,
+            "title": "Air Jordan XXXVI",
+            "price": 295,
+            "image": "/imgz/air-jordan-1.jpg",
+            "category": "Air Jordan",
+            "description": "Air Jordan XXXVI (Air Jordan)",
+            "descriptionDos":"El Air Jordan XXXVI no es solo el siguiente modelo de esta icónica franquicia, sino que es una expresión del impulso y la energía que provocaron una revolución en el básquetbol. Es uno de los calzados de básquetbol Air Jordan más ligeros hasta la fecha, y cuenta con una parte superior minimalista pero duradera de tejido."
+        },
+        {
+            "id": 9,
+            "title": "Nike Air Max Plus",
+            "price": 190,
+            "image": "/imgZ/maxplus.jpg",
+            "category": "Air Max",
+            "description":"Nike Air Max Plus (Air Max)",
+            "descriptionDos":"Las Air Max Plus reverberan con la vibrante energía de uno de los barrios con más vida del sur de Londres. Los colores llamativos y el estampado tipo grafiti actualizan las líneas onduladas y la parte superior de malla ventilada para crear un diseño innovador inspirado en las bulliciosas calles de Brixton. Las unidades Max Air en el talón y el antepié proporcionan una amortiguación duradera, por lo que son perfectas para pasear por Electric Avenue." 
+        },
+
+        {
+            "id": 10,
+            "title": "Air Max Plus 3",
+            "price": 210,
+            "image": "./imgZ/AirMaxPlus3.jpg",
+            "category": "Air Max",
+            "description":"Air Max Plus 3 (Air Max)",
+            "descriptionDos":"Las Air Max Plus 3 como las conocemos todos, vuelven a aparecer en las tiendas de todo el mundo luego de su creación hace 20 años y no podemos negar lo controversial y futuristas que se ven, ahora imaginen la repercusión que tuvo la silueta en el a fines de los 90′, simplemente increíble. <br>sus predecesoras Air Max Plus eran caracteristicas por contar con sus lineas curvas que rodeaban toda la capellada dándoles un estilo único pero las Plus III dieron un giro de 180 grados, contando con lineas horizontales que van de una punta a otra y le dan mucho mas dinamismo a la silueta."
+        },
+
+        {
+            "id": 11,
+            "title": "Nike Air Force Stussy",
+            "price": 180,
+            "image": "/imgZ/stussy.jpg",
+            "category": "Air Force",
+            "description": "Nike Air Force Stussy (Air Force)",
+            "descriptionDos": "Haz que tu exclusivo look sea reconocible gracias a esta colaboración Nike x Stüssy. Parte superior de piel Premium que se combina con un forro de punto para ofrecer la máxima sensación de gama alta. La icónica marca x 2 te permite lucir tus marcas favoritas."
+        }
+    ]
+}
